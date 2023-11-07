@@ -82,6 +82,7 @@ Ejercicios universitarios de programacion
 "Descargar remote de un fork."
 ### git fetch upstream o git merge upstream/master :
 "Merge con master de un fork."
+______________________________________________________________________________________________________________________________________
 #### Los rebase se usan cuando trabajamos con branches esto hace que los branches se pongan al día con el master sin afectar al mismo.
 ### git rebase :
 "Une el branch actual con el mastar, esto no se puede ver como un merge."
