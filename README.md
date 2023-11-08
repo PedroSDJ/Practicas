@@ -52,7 +52,7 @@ Ejercicios universitarios de programacion
 "agregamos todos archivos y modificaciones al area de preparados (si cambias el . por el nombre del archivo con su extension, solo agregaras dicho archivo)."
 ### git commit -m "comentario" :
 "tomamos captura a los archivos, en esta parte debes de hacerlo cuando esttas seguro que ya no trabajaras mas en la funcionalidad, programa o proyecto. En este punto habremos guardado los avances."
-### git push push origin master : 
+### git push origin master : 
 "Mandamos los avances guardados al repositorio remoto."
 ### git branch : 
 "muestra las ramas que tenemos el el repositorio."
